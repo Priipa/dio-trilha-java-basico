@@ -6,9 +6,10 @@ Enquanto essa oportunidade não chega, estou focada em adquirir conhecimento por
 Atualmente, o Bootcamp Santander da DIO tem sido uma importante fonte de aprendizado e tem me ajudado a acelerar meu desenvolvimento profissional.
 
 ## Repositório
-Neste repositório, você encontrará os desafios que realizei durante o Bootcamp Santander, promovido pela DIO.
+#### Neste repositório, você encontrará os desafios que realizei durante o Bootcamp Santander, promovido pela DIO.
 - [DIO - Trilha Java Básico: Sintaxe ](https://github.com/Priipa/dio-trilha-java-basico/tree/main/conta-banco/src)
-
+#### E também os exercicios: 
+- [DIO - Trilha Java Básico: Extruturas de Controle em JAVA](https://github.com/Priipa/dio-trilha-java-basico/tree/main/exercicios/src)
 
 ### Outros desafios: 
 Antes de iniciar os conteúdos sobre Java, a DIO nos apresentou o uso do Git e do GitHub. O meu primeiro desafio na plataforma foi colaborar em um projeto Open Source, criando o meu próprio perfil [(profiler)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/community/Priipa.md?plain=1) como contribuição.
